@@ -12,6 +12,6 @@ yarn dev
 
 Результат можно увидеть на [http://localhost:3000](http://localhost:3000) 
 
-Демо приложения: [brave-dev.vercel.app](brave-dev.vercel.app)
+Демо приложения: [https://brave-dev.vercel.app](https://brave-dev.vercel.app)
 
 
