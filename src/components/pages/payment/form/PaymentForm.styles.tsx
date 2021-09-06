@@ -49,6 +49,12 @@ export const Field = styled.div`
       border: 2px solid red;
     }
   }
+  
+  @media screen and (max-width: 620px){
+    input{
+      width: 100%;
+    }
+  }
 `;
 
 export const ServerMessage = styled.div`

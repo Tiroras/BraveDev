@@ -59,7 +59,7 @@ const PaymentForm: React.FC<IProps> = (props) => {
       <div>
         {props.phoneNumberDirty && props.sum != 0 ?
           <button className="active">Пополнить счет</button> :
-          <button>Введите данные</button>
+          <button disabled>Введите данные</button>
         }
       </div>
     </Form>
